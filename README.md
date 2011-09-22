@@ -7,7 +7,7 @@ GWT TAT Tablet is an HTML5 tablet concept influenced by TAT Acute prototype http
 http://nextinterfaces.com/projects/gwt-ipad/
 
 ### Video (Youtube):
-http://nextinterfaces.com/projects/gwt-ipad/
+http://youtube.com/watch?v=BCSGYUIB3Kg
 
 ### Showcases:
 http://nextinterfaces.com/showcases/
